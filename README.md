@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am Alan 💀🤘 🇧🇷
+
+I am graduated in Mechanical Engineering at university UMC
+Currently, I am student of the systems analysis and development at IMPACTA FIT university
 
 <!--
 **alaanlimaa/alaanlimaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
