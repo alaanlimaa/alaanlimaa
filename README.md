@@ -4,6 +4,8 @@
 <p>Currently, I'm student of the systems analysis and development at IMPACTA FIT university
  
 ---
+ -[ Technologies & Tools 👓💻](#-technologies-&-tools-)
+---
  ## Technologies & Tools 👓💻
   ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
   ![](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
