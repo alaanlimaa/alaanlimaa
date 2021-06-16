@@ -2,9 +2,7 @@
 
 <p>I'm graduated in Mechanical Engineering at university UMC
 <p>Currently, I'm student of the systems analysis and development at IMPACTA FIT university
- 
----
- -[ Technologies & Tools 👓💻](#-technologies-&-tools-)
+
 ---
  ## Technologies & Tools 👓💻
   ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
@@ -19,6 +17,9 @@
   ![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
   
 ---
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=alaanlimaa)
+ [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/alaanlima/)
+
 
   
   
