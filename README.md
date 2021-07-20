@@ -3,12 +3,6 @@
 <p>I'm graduated in Mechanical Engineering at UMC university 
 <p>Currently, I'm student of the systems analysis and development at IMPACTA FIT university
 
- ---
- _***Prazer sou o Alan***_, formado em Engenharia Mecânica pela UMC e nos últimos 10 anos trabalhei no setor industrial. Atualmente estou embarcando no "trem bala" chamado de "mundo da tecnologia e inovação", logo de cara me apaixonei pela volatilidade e desafios do mercado presente e futuro, estudo Análise e Desenvolvimento de Sistemas na IMPACTA FIT.
-<p>Aqui coloco tudo o que vou aprendendo, desenvolvendo e inventando na programação. 
-
-Por gentileza deixe seu comentário, modifique, me mostre algo que possivelmente esteja errado ou que posso melhorar ao codar (agradeceria demais por isso), mande um e-mail ou me chame nas redes sociais ***Não tenha vergonha rsrs***.
-
 ---
  ### Technologies & Tools 👓💻
   ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
@@ -32,6 +26,12 @@ Por gentileza deixe seu comentário, modifique, me mostre algo que possivelmente
 
 ---
  # Apenas faça 🏃‍♂️ Apenas programe 🖥️
+ 
+  _***Prazer sou o Alan***_, formado em Engenharia Mecânica pela UMC e nos últimos 10 anos trabalhei no setor industrial. Atualmente estou embarcando no "trem bala" chamado de "mundo da tecnologia e inovação", logo de cara me apaixonei pela volatilidade e desafios do mercado presente e futuro, estudo Análise e Desenvolvimento de Sistemas na IMPACTA FIT.
+<p>Aqui coloco tudo o que vou aprendendo, desenvolvendo e inventando na programação. 
+
+Por gentileza deixe seu comentário, modifique, me mostre algo que possivelmente esteja errado ou que posso melhorar ao codar (agradeceria demais por isso), mande um e-mail ou me chame nas redes sociais. ***Não tenha vergonha rsrs***.
+
 ---
 ## 📧 alanlimabusiness@outlook.com
 
